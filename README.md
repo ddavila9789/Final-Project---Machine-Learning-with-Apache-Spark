@@ -32,6 +32,5 @@ Save the model for future production use
 Load and verify the stored model
 
 # Data
-**In this lab you will be using dataset(s):**
 
 The original dataset can be found here NASA airfoil self noise dataset. https://archive.ics.uci.edu/dataset/291/airfoil+self+noise
